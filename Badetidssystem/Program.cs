@@ -14,11 +14,6 @@ namespace Badetidssystem
             BadeTidsPeriode badeTidsPeriode = new BadeTidsPeriode("Morgendukkert ", "Aftensvaler");
             Console.WriteLine(kred);
 
-            
-
-            
-
-
         }
         
             
